@@ -5,7 +5,8 @@ Originally, the prototype was to include a container with an existing program, w
 ## Getting started
 ## Installation
 
-On Mac: Install gnu-cobol with npm
+### On Mac
+Install gnu-cobol with npm
 
 ```bash
   brew install gnu-cobol
